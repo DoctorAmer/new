@@ -1,0 +1,12 @@
+
+.para1{
+    text-align: center;
+}body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-image: url('https://cdn.pixabay.com/photo/2015/12/01/15/43/black-1072366_960_720.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
